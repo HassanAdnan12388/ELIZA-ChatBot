@@ -1,0 +1,109 @@
+[
+    [
+      "I am (.*)",
+      [
+        "I see, you are %1?",
+        "Why do you feel %1",
+        "Im sorry you feel %1, but that's okay, we all feel %1 somedays, what is causing you to feel this way? ",
+        "Lets trouble shoot what youre feeling, perhaps start by telling me more why you feel that way",
+        "That seems tough on you, wanna talk about it?"
+      ]
+    ],
+    [
+      "You are (.*)",
+      [
+        "Am I really %1?",
+        "Why do you think I am %1?",
+        "How does it affect you that I am %1?"
+      ]
+    ],
+    [
+      "He is (.*)",
+      [
+        "Why do you think he is %1?",
+        "Does it concern you that he is %1?",
+        "How do you feel about him being %1?"
+      ]
+    ],
+    [
+      "She is (.*)",
+      [
+        "Why do you think she is %1?",
+        "Does it concern you that she is %1?",
+        "How do you feel about her being %1?"
+      ]
+    ],
+    [
+      "It is (.*)",
+      [
+        "Why do you say it is %1?",
+        "Does it being %1 have any significance to you?",
+        "How does it being %1 affect you?"
+      ]
+    ],
+    [
+      "Are you (.*) ?",
+      [
+        "Why do you ask if I am %1?",
+        "Would it matter to you if I were %1?",
+        "What if I were not %1?"
+      ]
+    ],
+    [
+      "(.*) is (.*)",
+      [
+        "Why do you say %1 is %2?",
+        "Do you think it is important that %1 is %2?",
+        "How does %1 being %2 affect you?"
+      ]
+    ],
+    [
+      "(.*) will (.*)",
+      [
+        "Will doing %2 help you feel better or worse?",
+        "What do you hope to achieve out of doing %2?",
+        "Is doing %2 a goal of yours?"
+      ]
+    ],
+    [
+      "Yes",
+      [
+        "Why do you answer %1?",
+        "Tell me more about this",
+        "How can we achieve this?"
+      ]
+    ],
+    [
+      "My (.*)",
+      [
+        "Tell me more about your %1 ",
+        "do you think your %1 impacts you? How?",
+        "Is your %1 important to you?"
+      ]
+    ],
+    [
+      "How can I stop feeling (.*)?",
+      [
+        "You can start by writing down a list of things that make you feel (.*) and then addressing them one by them, and talk to me about them",
+        "You can not stop feeling things, you must overcome the fear of feeling (.*), remind yourself youre stronger",
+        "Killing a feeling is a process, start by telling me whats something that makes you feel (.*) the most"
+      ]
+    ],
+    [
+      "Im struggling with (.*)",
+      [
+        "Is it because of this assignemnt ?",
+        "Do you feel that you would struggle less if you drop your GenAI course?",
+        "Life is nothing but a struggle, thankyou for attending my ted talk"
+      ]
+    ],
+    [
+      "I voted for (.*)",
+      [
+        "How did voting for %1 make you feel?",
+        "Why did you choose to vote for %1?",
+        "Do you think voting for %1 was the right decision?"
+      ]
+    ]
+  ]
+  
